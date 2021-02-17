@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A Computer Science professional, graduated with a Bachelor's degree in Computer Science from the University of Massachusetts Boston. Seeking full-time opportunities in Software Engineering.
+A Computer Science professional, graduated with a Bachelor's degree in Computer Science from the University of Massachusetts Boston. Seeking full-time opportunities in Software or Data Engineering.
 
 Technical Competencies:
 
