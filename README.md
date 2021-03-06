@@ -20,9 +20,9 @@ Technical Competencies:
 
 • Programming Languages: Python, C, Java.
 
-• Web Development: HTML5, CSS3, JavaScript, NodeJS, Django, Bootstrap, PHP7
+• Web Development: HTML5, CSS3, JavaScript, Django, NodeJS, Bootstrap, PHP7
 
-• Databases: MySQL, Oracle, SQL Server, MongoDB.
+• Databases: MySQL, MariaDB, Oracle, SQL Server, MongoDB.
 
 • Version Control: Git
 
@@ -30,3 +30,5 @@ Technical Competencies:
 Learning: React, GraphQL, and Tableau
 
 Please reach out to me preferably by email at [Tu.T.Nguyen93@gmail.com](mailto:Tu.T.Nguyen93@gmail.com) or by InMail on [LinkedIn](https://www.linkedin.com/in/tu-nguyen/). I look forward to connecting with you! 
+
+[GitHub Pages Portfolio](https://tu-nguyen.github.io/) <---
