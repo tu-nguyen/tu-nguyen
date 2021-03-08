@@ -31,4 +31,4 @@ Learning: React, GraphQL, and Tableau
 
 Please reach out to me preferably by email at [Tu.T.Nguyen93@gmail.com](mailto:Tu.T.Nguyen93@gmail.com) or by InMail on [LinkedIn](https://www.linkedin.com/in/tu-nguyen/). I look forward to connecting with you! 
 
-[GitHub Pages Portfolio](https://tu-nguyen.github.io/) <---
+[GitHub Pages Portfolio](https://tu-nguyen.github.io/)
