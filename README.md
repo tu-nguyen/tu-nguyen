@@ -18,14 +18,11 @@ A Computer Science professional, graduated with a Bachelor's degree in Computer 
 
 Technical Competencies:
 
-• Programming Languages: Python, C, Java.
+• Programming Languages: Python, Java, JavaScript, PHP, C, C++, Bash
 
-• Web Development: HTML5, CSS3, JavaScript, Django, NodeJS, Bootstrap, PHP7
+• Databases: MySQL, MariaDB, Oracle, SQL Server, MongoDB
 
-• Databases: MySQL, MariaDB, Oracle, SQL Server, MongoDB.
-
-• Version Control: Git
-
+• Miscellaneous Technologies and Tools: A/B testing, AWS, Apache, Bash, Heroku, Git, REST APIs, Docker, TCP/IP, Qt Creator, ETL, Data science pipeline (cleansing, wrangling, visualization), Jupyter Notebook, Linux
 
 Learning: React, GraphQL, and Tableau
 
