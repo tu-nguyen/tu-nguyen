@@ -20,9 +20,9 @@ Technical Competencies:
 
 • Programming Languages: Python, Java, JavaScript, PHP, C, C++, Bash
 
-• Databases: MySQL, MariaDB, Oracle, SQL Server, MongoDB
+• Web Development: HTML, CSS, Bootstrap, Django, React, NodeJS, MySQL, Postgres, Ajax, JQuery
 
-• Miscellaneous Technologies and Tools: A/B testing, AWS, Apache, Bash, Heroku, Git, REST APIs, Docker, TCP/IP, Qt Creator, ETL, Data science pipeline (cleansing, wrangling, visualization), Jupyter Notebook, Linux
+• Miscellaneous Technologies and Tools: A/B testing, AWS, Apache, Heroku, Git, REST APIs, Docker, TCP/IP, Qt Creator, ETL, Data science pipeline (cleansing, wrangling, visualization), Jupyter Notebook, Linux
 
 Learning: React, GraphQL, and Tableau
 
