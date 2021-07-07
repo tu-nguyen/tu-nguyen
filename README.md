@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A Computer Science professional, graduated with a Bachelor's degree in Computer Science from the University of Massachusetts Boston. Seeking full-time opportunities in Software or Data Engineering.
+A Computer Science professional, graduated with a Bachelor's degree in Computer Science from the University of Massachusetts Boston. Seeking full-time opportunities in Software or Data Engineering. Currently a Python Engineer at [Perch](https://www.perchhq.com/).
 
 Technical Competencies:
 
