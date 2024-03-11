@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 I am a Software Engineer from Boston.
 
-- 🔭 I’m currently working as a Backend Software Engineer at [Perch](https://www.perchhq.com/).
+- 🔭 I specialize in Python and Django
 - 🌱 I’m currently learning how to make reliable, scalable, and maintainable systems
 - 😄 In my free time I like to play [Go](https://online-go.com/user/view/1049358), attend interesting conventions, and unnecessarily upgrade my PC
 - 📫 How to reach me: Preferably by email at &nbsp;[<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" title="Gmail"  alt="Postman" width="18" height="18"/>](mailto:tu.t.nguyen93@gmail.com)&nbsp;[tu.t.nguyen93@gmail.com](mailto:tu.t.nguyen93@gmail.com) or by InMail on [![Linkedin Badge](https://img.shields.io/badge/-tu_nguyen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tu-nguyen) . I look forward to connecting with you! 
