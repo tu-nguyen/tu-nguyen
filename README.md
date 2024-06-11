@@ -26,7 +26,6 @@ I am a Full-Stack Software Engineer from Boston.
 
 <p>
     <a href="mailto:tu.t.nguyen93@gmail.com"><img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="GMail" alt="GMail" width="40" height="40"/></a>&nbsp;
-    <br>
     <a href="https://www.linkedin.com/in/tu-nguyen"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>&nbsp;
 </p>
 
