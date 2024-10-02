@@ -6,13 +6,15 @@
 Software Engineer from Boston.
 
 <p>
-    <a href="mailto:tu.t.nguyen93@gmail.com"><img src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" title="GMail" alt="GMail" width="50" height="50"/></a>&nbsp;
-    <a href="https://www.linkedin.com/in/tu-nguyen"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/></a>&nbsp;
+    <a href="mailto:tu.t.nguyen93@gmail.com"><img src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" title="GMail" alt="GMail" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/tu-nguyen"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-**[GitHub Pages Portfolio](https://tu-nguyen.github.io/)**
+**[[GitHub Pages Portfolio]](https://tu-nguyen.github.io/)**
 
-**[Resume](https://tu-nguyen.github.io/Tu%20Nguyen%20Resume.pdf)**
+**[[Resume]](https://tu-nguyen.github.io/Tu%20Nguyen%20Resume.pdf)**
+
+**[click here](https://calendly.com/tu-t-nguyen/quick-chat)** to set up a quick chat!
 
 ---
 
