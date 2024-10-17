@@ -6,14 +6,14 @@
     <a href="https://www.linkedin.com/in/tu-nguyen/">&lt;linkedin&gt;</a> •
     <a href="mailto:tu.t.nguyen93@gmail.com">&lt;email&gt;</a> •
     <a href="https://calendly.com/tu-t-nguyen/quick-chat">&lt;meet&gt;</a> •
-    <a href="https://tu-nguyen.github.io/Tu%20Nguyen%20Resume.pdf">&lt;resume&gt;</a>
+    <a href="https://tu-nguyen.github.io/Tu%20Nguyen%20Resume.pdf" target="_blank">&lt;resume&gt;</a>
 </p>
 
 ## About Me
 
 I'm a Full-Stack Software Engineer from Boston, MA.
 
-## My Skills
+## Skills
 
 ### TLDR
 
