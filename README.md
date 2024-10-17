@@ -1,25 +1,30 @@
 
-## Hi there, I'm Tu! 👋
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Tu</h3>
 
-### About Me:
-
-Software Engineer from Boston.
-
-<p>
-    <a href="mailto:tu.t.nguyen93@gmail.com"><img src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" title="GMail" alt="GMail" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/tu-nguyen"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
+<p align="center">
+    <a href="https://tu-nguyen.github.io/">&lt;portfolio&gt;</a> •
+    <a href="https://www.linkedin.com/in/tu-nguyen/">&lt;linkedin&gt;</a> •
+    <a href="mailto:tu.t.nguyen93@gmail.com">&lt;email&gt;</a> •
+    <a href="https://calendly.com/tu-t-nguyen/quick-chat">&lt;meet&gt;</a> •
+    <a href="https://tu-nguyen.github.io/Tu%20Nguyen%20Resume.pdf">&lt;resume&gt;</a>
 </p>
 
-**[[GitHub Pages Portfolio]](https://tu-nguyen.github.io/)**
+## About Me
 
-**[[Resume]](https://tu-nguyen.github.io/Tu%20Nguyen%20Resume.pdf)**
+I'm a Full-Stack Software Engineer from Boston, MA.
 
-**[click here](https://calendly.com/tu-t-nguyen/quick-chat)** to set up a quick chat!
+## My Skills
 
----
+### TLDR
 
-## Languages and Tools:
-<div>
+I'm a seasoned Software Engineer based in Boston, specializing in automation, optimization, and full-stack development. I'm proficient in languages and frameworks such as **Python**, **Django**, **React.js**, and **Node.js**, with a solid foundation in cloud technologies like **AWS**, **Docker**, and **Kubernetes**.
+
+While I enjoy exploring various technologies across the tech stack, I have a particular affinity for backend development, especially working with **Python** and **Django**.
+
+<details>
+<summary>
+  Expand for more details
+</summary>
 
 ### Languages:
 
@@ -35,9 +40,15 @@ Software Engineer from Boston.
 
 ### Database and Caching:
 
-| MySQL | PostgreSQL | SQLite | Redis | Kafta |
-|------------|------------|------------|------------|------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis"  alt="Redis" width="50" height="50"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafta"  alt="Kafta" width="50" height="50"/> |
+| PostgreSQL | MySQL | SQLite | MongoDB | Redis | Kafta |
+|------------|------------|------------|------------|------------|------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="50" height="50"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis"  alt="Redis" width="50" height="50"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafta"  alt="Kafta" width="50" height="50"/> |
+
+### Tools and Technologies:
+
+| Git | Bash | VS Code | PyCharm |
+|------------|------------|------------|------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="50" height="50"/>
 
 ### OS:
 
@@ -47,8 +58,19 @@ Software Engineer from Boston.
 
 ### Other:
 
-| Git | Bash | VS Code | PyCharm | Firebase | AWS | Docker | Kubernetes |
-|------------|------------|------------|------------|------------|------------|------------|------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="50" height="50"/> |
+| AWS | Docker | Kubernetes | Ansible | Terraform |
+|------------|------------|------------|------------|------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible" alt="Ansible" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="50" height="50"/>
 
-</div>
+---
+
+### I'm currently...
+- 🌱 Refreshing my skills on React and Vue
+- 🛠️ Keeping myself busy to stay up to date
+- 🚀Hoping to dive into Go soon!
+
+</details>
+
+## Let's connect!
+
+📫 How to reach me: **[[linkedIn]](https://www.linkedin.com/in/tu-nguyen/), [[email]](tu.t.nguyen93@gmail.com), [[meet]](https://calendly.com/tu-t-nguyen/quick-chat)**
